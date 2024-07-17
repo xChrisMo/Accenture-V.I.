@@ -29,22 +29,12 @@ The internship is divided into several modules, each focusing on different aspec
 - **Data Cleaning and Modeling:** Made use of the CRISP-DM processes for cleaning the data
 - **Presentation and Business Communication:** Enhanced my ability to present findings and communicate business insights effectively.
 
-## Resources Utilized
-
-- **Accenture's Official Website:** For additional information and context about the company's operations and services.
-- **Theforage Platform Support:** For resolving any technical issues encountered during the internship.
-- **Online Communities:** Engaged with peers for support and discussion, which enriched my learning experience.
 
 ## Certificate
 
-Upon successful completion of all modules, I received a certificate, I would advise ypu give it a trial on [here](https://www.theforage.com/).
+Upon successful completion of all modules, I received a certificate, I would advise you gave it a trial on [here](https://www.theforage.com/).
 
-## Disclaimer
+## Licensing 
+Copyright (c) 2024, Ayo
 
-This virtual internship does not guarantee employment with Accenture but provides valuable experience and skills applicable to various roles in the consulting and technology sectors.
-
-## Conclusion
-
-Completing the Accenture Virtual Internship was a highly rewarding experience that provided me with practical skills and insights into the consulting industry. I highly recommend this program to anyone looking to gain hands-on experience and enhance their professional skill set.
-
-Good luck with your virtual internship experience!
+This project is for personal and educational purposes only. All rights reserved.
