@@ -1,6 +1,6 @@
-# Accenture Virtual Internship on Theforage
+# Accenture Internship on Theforage
 
-## Overview
+## Description
 
 Welcome to the Accenture Virtual Internship program hosted on Theforage platform. This README provides an overview of my experience and insights gained from completing the internship. The program is designed to simulate real-world projects and challenges faced by professionals at Accenture, one of the world's leading professional services companies.
 
@@ -24,18 +24,10 @@ The internship is divided into several modules, each focusing on different aspec
 
 ### Skills and Knowledge Gained
 
-- **Project Management and Client Interaction:** Gained insights into managing projects and effectively communicating with clients.
-- **Data Analysis and Visualization:** Developed skills in using data visualization tools like Tableau and Power BI to present data insights.
-- **Data Cleaning and Modeling:** Learned techniques for cleaning and modeling data to ensure accuracy and reliability.
-- **Machine Learning Model Development:** Built and interpreted machine learning models using programming languages such as Python.
+- **Project Management and Client Interaction:** Gained insights into managing projects by effectively understandin and communicating with clients.
+- **Data Analysis and Visualization:** Repractised the use of Tableau as instructed  
+- **Data Cleaning and Modeling:** Made use of the CRISP-DM processes for cleaning the data
 - **Presentation and Business Communication:** Enhanced my ability to present findings and communicate business insights effectively.
-
-### Completing the Internship
-
-1. Carefully read through the task instructions for each module
-2. Completed the assignments and practical tasks provided
-3. Submitted my work for review and received constructive feedback
-4. Successfully completed all modules and received a certificate
 
 ## Resources Utilized
 
@@ -45,7 +37,7 @@ The internship is divided into several modules, each focusing on different aspec
 
 ## Certificate
 
-Upon successful completion of all modules, I received a certificate, which I have added to my resume and LinkedIn profile to showcase my newly acquired skills and experience.
+Upon successful completion of all modules, I received a certificate, I would advise ypu give it a trial on [here](https://www.theforage.com/).
 
 ## Disclaimer
 
