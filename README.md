@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the Accenture Virtual Internship program hosted on Theforage platform. This README provides an overview of my experience and insights gained from completing the internship. The program is designed to simulate real-world projects and challenges faced by professionals at Accenture, one of the world's leading professional services companies.
+This is my version of the Accenture Virtual Internship program hosted on Theforage platform. The program is designed to simulate real-world projects and challenges faced by professionals at Accenture, one of the world's leading professional services companies.
 
 ## Program Structure
 
